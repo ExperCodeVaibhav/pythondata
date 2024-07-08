@@ -1,0 +1,23 @@
+#int 0-infinite
+#float=1.2,3.4
+
+
+#string
+a="hello"
+print(a)
+
+
+a="i like to learn python"
+b='machine learning'
+c='deep learning'
+
+#indexing
+print(a[1])
+
+#slicing
+print(a[0:4])
+print(a[5:-2])
+
+#concatenation
+print(a+b)
+print(c*10)
